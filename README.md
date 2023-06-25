@@ -13,3 +13,7 @@ To simplify, MM-PULSE performs two main tasks: it takes a low-resolution input i
 ### Architecture
 
 <img src="imgs/arch.png" alt="MM-PULSE Architecture" width="750" height="450">
+
+---
+
+Built on top of [PULSE](https://github.com/adamian98/pulse), [InterfaceGAN](https://github.com/genforce/interfacegan)
