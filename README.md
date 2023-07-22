@@ -1,4 +1,4 @@
-# MM-PULSE: Multi-modal Photo Upsampling via Latent Space & Exploration of StyleGAN2
+# MM-PULSE: Multi-modal Photo Upsampling via Latent Space Exploration of StyleGAN2
 
 [Paper](mm-pulse.pdf)
 
